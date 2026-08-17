@@ -13,10 +13,12 @@ Open source shaped our careers. Today, we maintain the tools we wish existed: fo
 - **[Ferroni](https://github.com/sebastian-software/ferroni)** — a pure-Rust Oniguruma-compatible regular-expression engine and multi-pattern scanner, built without a C toolchain.
 - **[Sebastian Software Skills](https://skills.sebastian-software.com)** — open-source skills that turn repeated professional practice into explicit workflows for capable AI agents.
 
-## Explore our work
+## Open source and consulting
 
-- **[Open-source catalog](https://oss.sebastian-software.com)** — maintained projects across developer tooling, libraries, native Node.js bindings, AI, and data formats.
-- **[Company and consulting](https://sebastian-software.de)** — how we work, what we care about, and who we are.
-- **[All repositories](https://github.com/orgs/sebastian-software/repositories)** — current work, experiments, and the archive.
+Open source is where we share our engineering work. Consulting is how we help teams apply that depth to products that need to last.
+
+- **[Explore our open-source work](https://oss.sebastian-software.com)** — production-grade projects across developer tooling, libraries, native Node.js bindings, AI, and data formats.
+- **[Work with Sebastian Consulting](https://sebastian-consulting.com)** — two senior architects for React, TypeScript, frontend architecture, internationalization, performance, and platform work. No juniors and no hand-off to third parties.
+- **[Browse all repositories](https://github.com/orgs/sebastian-software/repositories)** — current work, experiments, and the archive.
 
 We build in public when we can. Issues and pull requests are welcome in the repository they belong to.
